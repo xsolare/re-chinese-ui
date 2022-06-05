@@ -1,5 +1,5 @@
 // globals styles
-import '../src/styles/index.scss';
+// import '../src/styles/index.scss';
 import createCache from '@emotion/cache';
 import { ThemeProvider, CacheProvider } from '@emotion/react';
 import { theme } from '../src/shared/theme';

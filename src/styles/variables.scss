@@ -1,8 +1,8 @@
 @use 'sass:color';
 
-$font-family-sans-serif: -apple-system, blinkmacsystemfont, 'Segoe UI', roboto, 'Helvetica Neue',
-  arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol',
-  'Noto Color Emoji' !default;
+$font-family-sans-serif: 'Rubik', -apple-system, blinkmacsystemfont, 'Segoe UI', roboto,
+  'Helvetica Neue', arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+  'Segoe UI Symbol', 'Noto Color Emoji' !default;
 $font-family-monospace: sfmono-regular, menlo, monaco, consolas, 'Liberation Mono', 'Courier New',
   monospace !default;
 $font-family-base: $font-family-sans-serif !default;
